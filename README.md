@@ -26,7 +26,7 @@ The dashboard refreshes automatically every 2.8 seconds to simulate continuous a
 * Severity breakdown chart
 * API source distribution
 * Attack type analysis
-* Real-time threat feed  
+* Real-time threat feed 
 2️⃣ Threat Map  
 * Animated SVG world map
 * Live global attack visualization
