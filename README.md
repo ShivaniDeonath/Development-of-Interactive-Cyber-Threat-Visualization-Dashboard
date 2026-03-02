@@ -26,16 +26,19 @@ The dashboard refreshes automatically every 2.8 seconds to simulate continuous a
 * Severity breakdown chart
 * API source distribution
 * Attack type analysis
-* Real-time threat feed 
+* Real-time threat feed
+
 2️⃣ Threat Map  
 * Animated SVG world map
 * Live global attack visualization
-* Country-based threat origin simulation  
+* Country-based threat origin simulation
+
 3️⃣ Analytics  
 * Bandwidth history graph
 * Threat severity timeline
 * API ranking chart
-* Dynamic Security Score gauge  
+* Dynamic Security Score gauge
+
 4️⃣ AI Assistant  
 * Cybersecurity chatbot
 * Answers questions about:
@@ -43,39 +46,46 @@ The dashboard refreshes automatically every 2.8 seconds to simulate continuous a
 * DDoS
 * Ransomware
 * SQL Injection
-* Firewalls  
+* Firewalls
+
 5️⃣ URL Scanner  
 * Risk scoring
 * SSL validation
 * Malware detection
 * Phishing check
 * Reputation analysis
+
 6️⃣ Threat History  
 * Filterable logs
 * Severity-based filtering
 * IP, attack type, country display
-* MITRE ATT&CK technique IDs  
+* MITRE ATT&CK technique IDs
+
 7️⃣ Database Module  
 * Mock SQLite connection manager
 * Connect / Disconnect toggle
 * Live SQL query runner
-* Results table display  
+* Results table display
+
 8️⃣ Export Data  
 * One-click CSV export
 * Threat feed export
 * API summary export
-* Attack distribution export  
+* Attack distribution export
+
 9️⃣ Barcode Scanner  
 * QR / Barcode input scanning
 * Phishing redirect detection
 * Counterfeit detection
-* Malicious domain analysis  
+* Malicious domain analysis
+
 🔟 Network Scanner  
 * Simulated ARP sweep
 * Device discovery
 * IP, MAC, hostname display
 * Suspicious device flagging
-* Rescan functionality  
+* Rescan functionality
+
 # ⚙️ Technical Highlights
 * Built using React (No external UI libraries)
 * Inline CSS styling
